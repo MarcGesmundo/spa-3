@@ -1,0 +1,81 @@
+/*  CSS FILE  */
+.mainWrapper{
+	min-height: 600px;
+}
+.header{
+	min-height:150px;
+	text-align: center;
+	font-weight: bold;
+	color:blue;
+	font-size: 20px;
+}
+
+.borders{
+	border:1px solid #000;
+
+}
+.siteBody{
+	min-height: 650px;
+}
+
+.bodyContainers{
+	padding-left:20px;
+	padding-top: 20px;
+	min-height:400px;
+	
+}
+
+.innerContainersNav{
+	min-height:335px;
+	width:120px;
+}
+.innerContainers{
+	min-height:0px;
+	width:360px;
+}
+.innerContainers2{
+	min-height:0px;
+	width:500px;
+}
+
+.headers{
+	height:150px;
+}
+.myNav{
+	padding-top: 20px;
+	padding-left: 20px;
+}
+
+.gallery{
+	margin: 0px;
+	border:0px dashed black;
+	height:150px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
